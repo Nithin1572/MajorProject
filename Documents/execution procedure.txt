@@ -1,2 +1,0 @@
-open the following collab link and Run the code.
-" https://colab.research.google.com/drive/14oedJlVPaLyjgNoFuTOQKkH25-70BaQV?usp=sharing "
